@@ -4,7 +4,7 @@ A creative collection of mini web projects and UI experiments built with HTML, C
 
 This workspace showcases a variety of small but polished interfaces, including personal portfolios, landing pages, design systems, and magazine-style layouts.
 
-## ✨ Highlights
+##  Highlights
 
 - Responsive and visually rich front-end layouts
 - Personal portfolio and bio page concepts
@@ -12,7 +12,7 @@ This workspace showcases a variety of small but polished interfaces, including p
 - CSS-focused exercises for positioning, typography, and grid/flexbox layouts
 - Clean project-by-project structure for easy browsing and experimentation
 
-## 📁 Project Gallery
+##  Project Gallery
 
 - [project5/P5.html](project5/P5.html) — Bio page
 - [project6/P6.html](project6/P6.html) — Personal portfolio
@@ -24,7 +24,7 @@ This workspace showcases a variety of small but polished interfaces, including p
 - [project12/P12.html](project12/P12.html) — Project portfolio overview
 - [project13/P13.html](project13/P13.html) — Flexbox and grid layout examples
 
-## 🚀 Getting Started
+##  Getting Started
 
 To preview the projects locally:
 
@@ -41,18 +41,18 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000` in your browser.
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - HTML5
 - CSS3
 - Responsive design principles
 - Layout systems such as Flexbox and Grid
 
-## 📌 Notes
+##  Notes
 
 This is a hands-on front-end learning workspace focused on building clean, functional, and visually appealing interfaces. Each project demonstrates a different style or web layout pattern.
 
-## 🌐 Folder Structure
+##  Folder Structure
 
 ```text
 web lab/
