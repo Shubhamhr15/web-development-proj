@@ -74,5 +74,5 @@ web lab/
 Enjoy exploring the collection and feel free to reuse or adapt any design patterns for your own projects.
 
 ## Student's Details
-Name-Shubham Kumar Bahmaniya
+Name-Shubham Kumar Bahmaniya <br>
 USN-2392608049
